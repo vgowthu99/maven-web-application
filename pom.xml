@@ -83,10 +83,7 @@
 			<version>3.1.0</version>
 			<scope>provided</scope>
 		</dependency>
-
-	</dependencies>
-	
-	<distributionManagement>
+        <distributionManagement>
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
@@ -98,6 +95,9 @@
 	      <url>http://13.233.127.248:8081/repository/flipkartsnap/</url>
 	    </snapshotRepository>
 	</distributionManagement>
+		
+		
+	</dependencies>
 	
 	<build>
 		<finalName>maven-web-application</finalName>

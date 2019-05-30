@@ -94,8 +94,8 @@
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <namehttp://13.233.0.180:8081/repository/flipkartsnap/>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url></url>
+	      <name>Mithun Technologies Snapshot Nexus Repository</name>
+	      <url>http://13.233.0.180:8081/repository/flipkartsnap/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
